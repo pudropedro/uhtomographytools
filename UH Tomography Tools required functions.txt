@@ -1,0 +1,17 @@
+Functions required by University of Helsinki Tomography Tools package:
+bin_projection.m
+bin_sinogram_3d.m
+correct_cor_3d.m
+create_ct_project_3d.m
+normalize.m
+read_ct_scan_parameters.m
+subsample_sinogram_3d.m
+tomorecon_3d_cone_fdk_astra_cuda.m
+write_ct_volume.m
+
+
+Additionally, ASTRA Tomography Toolbox and Spot Operator must be installed and included in the MATLAB path.
+
+Alexander Meaney, University of Helsinki
+Created:            29.1.2019
+Last edited:        29.1.2019
